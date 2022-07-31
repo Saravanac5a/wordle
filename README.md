@@ -10,8 +10,10 @@ There was a time till recently when everyone once hooked onto this game called W
 ## Dependencies
 You will need to install ```enchant```, ```random_word``` and ```colorama``` using the following commands, if you have not already
 
-```pip install pyenchant
+```
+pip install pyenchant
 pip install random_word
-pip install colorama```
+pip install colorama
+```
 
 Feel free to use this code and improvise it
