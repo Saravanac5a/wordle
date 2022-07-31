@@ -7,8 +7,9 @@ There was a time till recently when almost every other person was into this fasc
 2. Normal text: if the letter is present in the word of the day but is not in the correct position
 3. Red: if the letter is not in the word of the day
 
-##Dependencies
+## Dependencies
 You will need to install pyenchant using the following command
+
 ```pip install pyenchant```
 
 Feel free to use this code and improvise it
